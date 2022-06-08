@@ -26,6 +26,6 @@ COMMAND INSTALLATION ON TERMUX👇
 
  #➣ git clone https://github.com/Hacker-Raj1/old8-14.git
 
- #➣ cd old8-14.py
+ #➣ cd old8-14
 
  #➣ python aman.py
